@@ -15,8 +15,8 @@ from aiogram.types import InputMediaPhoto
 from states1 import Newmember 
 import buttons
 from states1 import Change 
-TOKEN = "6916431102:AAFAjZIOrlb96DXlhgtLsG8qVJxWPABpoa8"
-test_id = 6355200375
+TOKEN = "do not copy!"
+
 
 # All handlers should be attached to the Router (or Dispatcher)
 bot = Bot(TOKEN)
